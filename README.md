@@ -1,7 +1,3 @@
-Here's the content for your project's `README.md` file:
-
----
-
 # Currency Converter App
 
 This project is a **Currency Converter** application built using **React.js**. It allows users to convert one currency into another based on the latest exchange rates fetched from an external API. The app supports swapping between "From" and "To" currencies and displays the converted amount.
@@ -103,7 +99,3 @@ This API provides the exchange rates for different currencies based on the provi
 ## License
 
 This project is open-source and available under the **MIT License**.
-
----
-
-Feel free to customize the content as per your project requirements!
